@@ -1,0 +1,20 @@
+{
+  "name": "sanber-tugas-pekanan-2-javascript-1",
+  "version": "1.0.0",
+  "description": "tugas pekanan 2",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tugas",
+    "pekanan",
+    "2",
+    "javascript"
+  ],
+  "author": "Dhiani",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
